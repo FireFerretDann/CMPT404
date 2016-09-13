@@ -1,0 +1,73 @@
+15 pts
+
+Daniel,
+
+- You did not povide enough evidence to prove that you have ALL the necessary
+  setup for python. -2pts
+
+- You did not povide enough evidence to prove that you have a GitHub repository
+  for the class. 
+
+- You did not povide enough evidence to show you have a Kaggle account.  -1pt
+
+About the problems:
+1. 
+You have the correct answer and a good explanation.
+
+2. 
+You have the correct answer but a poor explanation.
+
+3.(a)
+You have a very good explanation.
+
+3.(b)
+You have the correct answer and a very good explanation.
+You did not provide Python code to support your answer.
+
+4. Gaussian
+The answer you provided is not complete. -1pt
+
+4. Multivariate Gaussian
+The answer you provided is not complete. -1pt
+
+4. Bernoulli
+The answer you provided is not complete.
+
+4. Binomial
+The answer you provided is not complete. 
+
+4. Exponential
+The answer you provided is not complete. 
+
+6.
+You have the correct answer and a good explanation.
+
+7.(a)
+You provided the correct answer.
+
+7.(b)
+The picture you provided is not the best, but it is legible nonetheless.
+
+8.(a)
+You provided a correct answer and development of it.
+
+8.(b)
+You provided a good development and a correct answer.
+
+8.(c)
+You showed a good development of your correct answer.
+
+8.(d)
+You have the correct answer and a good development of it.
+
+About your $\LaTeX$ work:
+- It seems like you put a lot of effort on it. 
+- If this was your first time, you did great!
+
+Overall an acceptable work:
+- No python to support your answers -2pts
+
+
+Peace,
+
+- Dr. Pablo Rivas
