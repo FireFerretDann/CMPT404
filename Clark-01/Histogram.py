@@ -13,7 +13,8 @@ data = [2015, 21934, 13391, 1687, 7404, 19745, 7697, 5561, 972, 7659, 5646,
 plot.hist(data, 30)
 plot.title("Iterations")
 plot.xlabel("Iterations")
-plot.xlabel("Frequency")
+plot.ylabel("Frequency")
+plot.savefig('Histogram', dpi=200, bbox_inches='tight')
 plot.show()
 
-plot.savefig('Histogram', dpi=200, bbox_inches='tight')
+
