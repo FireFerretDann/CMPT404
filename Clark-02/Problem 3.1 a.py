@@ -10,7 +10,7 @@ class Perceptron:
  
     def generate_points(self, N):
         X = []
-        points, sign = make_semi_circles(n_samples = N, thk=5, rad=10, sep=5, plot=False)
+        points, sign = makeSemiCircles.make_semi_circles(n_samples = N, thk=5, rad=10, sep=5, plot=False)
         for i in range(N):
             x = np.array([1, points[i,0], points[i,1]])
             s = sign[i]
@@ -90,6 +90,6 @@ class Perceptron:
         
         
 
- 
+
 p = Perceptron(2000)
 p.pla(save = True)
