@@ -88,8 +88,30 @@ class Perceptron:
         check_pts = self.generate_points(M)
         return self.classification_error(vec, pts=check_pts)
         
+    def linear_regression(self):
+        #Create X and Y from the data
+        xTemp = []
+        yTemp = []
+        w = np.zeros(3)
+        for x, s in self.X:
+            xTemp.append(x)
+            yTemp.append(s)
+        
+        X = np.matrix(xTemp)
+        Y = np.matrix(yTemp)
+
+        #Derive intermediary matrices
+        Xcross = np.dot(np.linalg.inv(np.dot(X.T, X)), X.T)
+        w += (np.dot(Xcross, Y.T).T).A1
+        
+        #Save and plot w
+        self.w = w
+        self.plot(vec = w)
+        
         
 
 
 p = Perceptron(2000)
 p.pla(save = True)
+
+p.linear_regression()
