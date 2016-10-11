@@ -1,0 +1,9 @@
+10 pts
+
+The idea is great. Using CNNs is interesting and if you (we) are successful in
+this project you (we) could write a paper for a conference (if you are
+interested).
+
+Go for it.
+
+- Dr. Rivas
