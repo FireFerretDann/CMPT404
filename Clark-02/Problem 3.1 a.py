@@ -53,7 +53,7 @@ class Perceptron:
                 n_mispts += 1
         error = n_mispts / float(M)
         return error
- 
+
     def choose_miscl_point(self, vec):
         # Choose a random point among the misclassified
         pts = self.X
