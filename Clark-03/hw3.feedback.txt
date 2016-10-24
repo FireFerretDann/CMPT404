@@ -1,0 +1,26 @@
+60 pts
+
+Daniel,
+
+Here is the breakdown of your grade and feedback by parts:
+
+1.a) Pocket Algorithm starting at w=0
+
+- Good experiments.
+
+
+1.b) Linear Regression as classification
+
+- Good experiments.
+
+
+1.c) Pocket Algorithm starting with Linear Regression
+
+- Good experiments.
+
+Overall good conclussions. 
+Yay for using LaTeX!! +5pts
+
+Peace,
+- Dr. Rivas
+
