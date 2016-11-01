@@ -23,7 +23,7 @@ plt.show()
 errors = []
 
 # For each odd number of neighbors
-for numNeighbors in range(1, (((FOLDS-1)*N)//FOLDS + 1)//2, 2):
+for numNeighbors in range(1, ((FOLDS-1)*N)//FOLDS + 1, 2):
     totErr = 0
     # Split
     #print "numNeighbors: " + str(numNeighbors)
