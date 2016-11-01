@@ -1,0 +1,19 @@
+99pts
+
+Daniel,
+
+Here is your feedback and grade breakdown by problems:
+
+1) The experiments seem ok, except that you may not have given the perceptron
+enough time to make progress after the linear regression starting point. What
+if 100 wasn't enough? -1pt
+Linear Regression does not change for this dataset, there is no average. - 1pt
+
+2) Very good! 
+
+3) No picture/drawing, except for a creepy-cool deep dream one. +1pt
+
+
+Peace,
+
+- Dr. Rivas
