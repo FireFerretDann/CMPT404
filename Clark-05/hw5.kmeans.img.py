@@ -46,7 +46,7 @@ print("Predicting color indices on the full image (k-means)")
 t0 = time()
 labels = kmeans.predict(image_array)
 print("done in %0.3fs." % (time() - t0))
-
+    
 def recreate_image(codebook, labels, w, h):
     """Recreate the (compressed) image from the code book & labels"""
     d = codebook.shape[1]
